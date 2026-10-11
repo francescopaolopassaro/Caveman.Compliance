@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Caveman.Compliance.Tests/Caveman.Compliance.Tests.csproj" />
+  <Project Path="Caveman.Compliance/Caveman.Compliance.csproj" />
+</Solution>
